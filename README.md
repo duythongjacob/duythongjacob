@@ -13,7 +13,8 @@ I'm a  UI-UX Designer  and Front-end Web Developer. My experience has provided m
 - thongduy.dev
 - project.thongduy.dev
 - studio.thongduy.dev
-[[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thong-duy/) 
+ <br/>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thong-duy/) 
 
 
 #### Things I code with
