@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a  UI-UX Designer  and Front-end Web Developer. My experience has provided me with the experience and technical skills necessary to successfully support a company,
+I'm a  UI-UX Designer  and  Web Developer. My experience has provided me with the experience and technical skills necessary to successfully support a company,
 
 
 
